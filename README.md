@@ -2,7 +2,7 @@ A simply app to get definitions from a word and an image relationated with the w
 
 Calling 2 API's :
 
-Definitions: https://dictionaryapi.dev/
-Gif: https://developers.giphy.com/docs/sdk
+// Definitions: https://dictionaryapi.dev/
+// Gifs: https://developers.giphy.com/docs/sdk
 
 - Vanilla JS
